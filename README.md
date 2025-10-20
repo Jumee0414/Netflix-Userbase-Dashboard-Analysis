@@ -27,7 +27,8 @@ Bing Maps – for geographic representation
  Purpose
 This dashboard provides Netflix with actionable insights into:
 User preferences by device and gender
-Subscription plan performance![WhatsApp Image netflix](https://github.com/user-attachments/assets/9e687ae8-971d-499d-a402-b4dbffc2b001)
+
+![WhatsApp Image  netflix userbase](https://github.com/user-attachments/assets/c2984a3b-1630-4eb0-ab0f-94fd50a86bfd)
 
 Regional revenue distribution
 
