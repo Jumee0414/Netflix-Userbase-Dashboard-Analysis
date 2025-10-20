@@ -1,3 +1,4 @@
+![WhatsApp Image netflix](https://github.com/user-attachments/assets/cf679aad-3706-4905-9443-0962274aaf29)
 # Netflix-Userbase-Dashboard-Analysis
 This project presents a Netflix Performance Dashboard built in Power BI to analyze user behavior, subscription performance, and revenue insights.
 The dashboard visualizes key Netflix metrics such as:
@@ -26,7 +27,8 @@ Bing Maps – for geographic representation
  Purpose
 This dashboard provides Netflix with actionable insights into:
 User preferences by device and gender
-Subscription plan performance
+Subscription plan performance![WhatsApp Image netflix](https://github.com/user-attachments/assets/9e687ae8-971d-499d-a402-b4dbffc2b001)
+
 Regional revenue distribution
 
 Dataset (CSV/Excel format)
